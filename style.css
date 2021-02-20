@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #303240;
+}
+
+.link {
+  margin-top: 10px;
+  width: 1024px;
+  height: 768px;
+}
+
+.link img {
+  width: 100%;
+  height: 100%;
+}
