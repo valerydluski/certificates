@@ -10,6 +10,11 @@ const DATA = [
     imgLink: './assets/img/aepcuakc.png',
   },
   {
+    name: 'Advanced Express',
+    certificateLink: './assets/certificates/CertificateOfCompletion_Advanced Express.pdf',
+    imgLink: './assets/img/CertificateOfCompletion_Advanced Express.png',
+  },
+  {
     name: 'Building a Website with Node.js and Express.js',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Building a Website with Node.js and Express.js.pdf',
