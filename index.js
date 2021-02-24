@@ -71,6 +71,11 @@ const DATA = [
       './assets/certificates/CertificateOfCompletion_Visual Studio Tips for Web Developers.pdf',
     imgLink: './assets/img/CertificateOfCompletion_Visual Studio Tips for Web Developers.png',
   },
+  {
+    name: 'CSS Display',
+    certificateLink: './assets/certificates/CertificateOfCompletion_CSS Display.pdf',
+    imgLink: './assets/img/CertificateOfCompletion_CSS Display.png',
+  },
 ];
 
 const createLink = (el) => {
