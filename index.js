@@ -14,6 +14,15 @@ const DATA = [
     skillsCovered: ['Express.js', 'JavaScript', 'Node.js'],
   },
   {
+    name: 'Building RESTful APIs with Node.js and Express',
+    certificateLink:
+      './assets/certificates/CertificateOfCompletion_Building RESTful APIs with Node.js and Express.pdf',
+    imgLink:
+      './assets/img/CertificateOfCompletion_Building RESTful APIs with Node.js and Express.png',
+    completedDate: '2021-03-14',
+    skillsCovered: ['Express.js', 'REST APIs', 'RESTful WebServices', 'Node.js'],
+  },
+  {
     name: 'Node.js: Microservices',
     certificateLink: './assets/certificates/CertificateOfCompletion_Node.js Microservices.pdf',
     imgLink: './assets/img/CertificateOfCompletion_Node.js Microservices.png',
