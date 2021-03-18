@@ -14,6 +14,14 @@ const DATA = [
     skillsCovered: ['Express.js', 'JavaScript', 'Node.js'],
   },
   {
+    name: 'Node.js: Securing RESTful APIs',
+    certificateLink:
+      './assets/certificates/CertificateOfCompletion_Node.js Securing RESTful APIs.pdf',
+    imgLink: './assets/img/CertificateOfCompletion_Node.js Securing RESTful APIs.png',
+    completedDate: '2021-03-18',
+    skillsCovered: ['REST APIs', 'Software Development Security', 'Node.js'],
+  },
+  {
     name: 'Building RESTful APIs with Node.js and Express',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Building RESTful APIs with Node.js and Express.pdf',
