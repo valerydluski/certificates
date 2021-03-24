@@ -14,6 +14,14 @@ const DATA = [
     skillsCovered: ['Express.js', 'JavaScript', 'Node.js'],
   },
   {
+    name: 'Build a React Application Using AWS Amplify',
+    certificateLink:
+      './assets/certificates/CertificateOfCompletion_Build a React Application Using AWS Amplify.pdf',
+    imgLink: './assets/img/CertificateOfCompletion_Build a React Application Using AWS Amplify.png',
+    completedDate: '2021-03-24',
+    skillsCovered: ['React.js', 'Amazon Web Services (AWS)', 'Cloud Development'],
+  },
+  {
     name: 'Node.js: Securing RESTful APIs',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Node.js Securing RESTful APIs.pdf',
