@@ -142,6 +142,14 @@ const DATA = [
     completedDate: '2021-02-24',
     skillsCovered: ['Markup Languages', 'Cascading Style Sheets (CSS)', 'Web Design'],
   },
+  {
+    name: 'CSS: Enhancing Interfaces with Animation',
+    certificateLink:
+      './assets/certificates/CertificateOfCompletion_CSS Enhancing Interfaces with Animation.pdf',
+    imgLink: './assets/img/CertificateOfCompletion_CSS Enhancing Interfaces with Animation.png',
+    completedDate: '2021-03-27',
+    skillsCovered: ['Cascading Style Sheets (CSS)', 'Web Graphics', 'Graphic Animation'],
+  },
 ];
 
 const SKILLS = [...new Set(DATA.flatMap((cert) => cert.skillsCovered))];
