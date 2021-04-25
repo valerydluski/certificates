@@ -22,6 +22,14 @@ const DATA = [
     skillsCovered: ['Cloud Computing', 'Cloud Development', 'Docker Products'],
   },
   {
+    name: 'React: Working with APIs',
+    certificateLink:
+      './assets/certificates/CertificateOfCompletion_React Working with APIs.pdf',
+    imgLink: './assets/img/CertificateOfCompletion_React Working with APIs.png',
+    completedDate: '2021-04-25',
+    skillsCovered: ['JavaScript', 'React.js', 'Application Programming Interfaces'],
+  },
+  {
     name: 'Build a React Application Using AWS Amplify',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Build a React Application Using AWS Amplify.pdf',
