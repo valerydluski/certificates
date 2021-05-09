@@ -14,6 +14,14 @@ const DATA = [
     skillsCovered: ['Express.js', 'JavaScript', 'Node.js'],
   },
   {
+    name: 'Azure Essential Training for Developers',
+    certificateLink:
+      './assets/certificates/CertificateOfCompletion_Azure Essential Training for Developers.pdf',
+    imgLink: './assets/img/CertificateOfCompletion_Azure Essential Training for Developers.png',
+    completedDate: '2021-05-09',
+    skillsCovered: ['Cloud Development', 'Microsoft Azure'],
+  },
+  {
     name: 'Learning Docker',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Learning Docker.pdf',
