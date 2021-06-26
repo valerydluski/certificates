@@ -14,6 +14,14 @@ const DATA = [
     skillsCovered: ['Express.js', 'JavaScript', 'Node.js'],
   },
   {
+    name: 'Azure: Understanding the Big Picture (2020)',
+    certificateLink:
+      './assets/certificates/CertificateOfCompletion_Azure Understanding the Big Picture 2020.pdf',
+    imgLink: './assets/CertificateOfCompletion_Azure Understanding the Big Picture 2020.png',
+    completedDate: '2021-06-26',
+    skillsCovered: ['Cloud Computing', 'Cloud Development', 'Microsoft Azure'],
+  },
+  {
     name: 'Azure Essential Training for Developers',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Azure Essential Training for Developers.pdf',
@@ -23,16 +31,14 @@ const DATA = [
   },
   {
     name: 'Learning Docker',
-    certificateLink:
-      './assets/certificates/CertificateOfCompletion_Learning Docker.pdf',
+    certificateLink: './assets/certificates/CertificateOfCompletion_Learning Docker.pdf',
     imgLink: './assets/img/CertificateOfCompletion_Learning Docker.png',
     completedDate: '2021-04-17',
     skillsCovered: ['Cloud Computing', 'Cloud Development', 'Docker Products'],
   },
   {
     name: 'React: Working with APIs',
-    certificateLink:
-      './assets/certificates/CertificateOfCompletion_React Working with APIs.pdf',
+    certificateLink: './assets/certificates/CertificateOfCompletion_React Working with APIs.pdf',
     imgLink: './assets/img/CertificateOfCompletion_React Working with APIs.png',
     completedDate: '2021-04-25',
     skillsCovered: ['JavaScript', 'React.js', 'Application Programming Interfaces'],
