@@ -17,7 +17,7 @@ const DATA = [
     name: 'Azure: Understanding the Big Picture (2020)',
     certificateLink:
       './assets/certificates/CertificateOfCompletion_Azure Understanding the Big Picture 2020.pdf',
-    imgLink: './assets/CertificateOfCompletion_Azure Understanding the Big Picture 2020.png',
+    imgLink: './assets/img/CertificateOfCompletion_Azure Understanding the Big Picture 2020.png',
     completedDate: '2021-06-26',
     skillsCovered: ['Cloud Computing', 'Cloud Development', 'Microsoft Azure'],
   },
